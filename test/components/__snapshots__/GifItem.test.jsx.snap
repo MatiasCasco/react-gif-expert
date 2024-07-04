@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem/> Debe de hacer match con el snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+  >
+    <img
+      alt="Google"
+      src="https://www.google.com"
+    />
+    <p>
+      Google
+    </p>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Pruebas en <GifItem/> Debe de hacer match con el snapshot 2`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Google"
+      src="https://www.google.com"
+    />
+    <p>
+      Google
+    </p>
+  </div>
+</div>
+`;
